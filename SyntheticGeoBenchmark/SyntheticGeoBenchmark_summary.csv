@@ -1,0 +1,19 @@
+﻿name,group,expected,true_dip,estimate,uncertainty,abs_error,method,confidence,ood_score,max_severity,M1,M2,M3,M4,M5,recommended_mode,warning_count
+clean_dipping_layer_15,known_dip,dipping layer,15,25.247,5.000,10.247,Fallback_ST_consensus,0.550,0.714,0.421,24.724,33.939,40.860,25.769,17.839,STAR + MGS 보조,1
+clean_dipping_layer_25,known_dip,dipping layer,25,32.069,6.680,7.069,ST_consensus_override,0.920,1.000,0.000,31.953,42.987,31.195,32.185,4.621,STAR + MGS 보조,0
+clean_dipping_layer_35,known_dip,dipping layer,35,30.858,6.761,4.142,ST_consensus_override,0.920,1.000,0.000,30.159,8.314,15.845,31.557,1.368,STAR + MGS 보조,0
+covered_dipping_layer_15,covered_known_dip,covered dipping layer,15,21.451,16.162,6.451,Covered_nlevel_hybrid,0.550,0.714,2.466,5.804,17.410,58.803,5.071,3.044,STAR + MGS 보조,2
+covered_dipping_layer_25,covered_known_dip,covered dipping layer,25,25.255,15.976,0.255,Covered_nlevel_hybrid,0.550,0.714,2.297,6.672,23.043,53.381,5.540,0.526,STAR + MGS 보조,2
+covered_dipping_layer_35,covered_known_dip,covered dipping layer,35,23.504,12.736,11.496,Buried_geometry_hybrid,0.520,0.857,2.436,5.960,17.635,32.512,5.054,0.354,STAR + MGS 보조,2
+dipping_groundwater_10,groundwater_known_dip,dipping groundwater,10,11.334,5.336,1.334,ML,0.920,1.000,0.000,20.202,34.239,31.623,19.642,3.665,Cell+L2 또는 약한 STAR,0
+dipping_groundwater_20,groundwater_known_dip,dipping groundwater,20,16.707,5.000,3.293,Fallback_ST_consensus,0.550,0.714,0.710,16.510,47.139,18.592,16.904,8.312,Cell+L2 또는 약한 STAR,2
+dipping_groundwater_30,groundwater_known_dip,dipping groundwater,30,25.594,12.148,4.406,ML,0.857,0.857,0.968,13.495,20.832,14.852,14.906,8.410,STAR + MGS 보조,0
+conductive_fault_zone_30,fault_known_dip,conductive fault zone,30,45.824,14.000,15.824,Fallback_ST_consensus_steep_range,0.550,0.714,1.563,44.324,68.174,23.896,47.324,3.478,MGS + STAR 후보각 비교,2
+conductive_fault_zone_45,fault_known_dip,conductive fault zone,45,45.409,5.000,0.409,Fallback_ST_consensus,0.550,0.786,1.864,43.617,71.022,25.549,47.200,1.351,MGS + STAR 후보각 비교,2
+conductive_fault_zone_60,fault_known_dip,conductive fault zone,60,43.988,5.000,16.012,ST_consensus_override,0.857,0.857,0.537,41.911,28.391,24.157,46.066,2.560,MGS + STAR 후보각 비교,1
+dipping_resistive_basement_12,interface_known_dip,dipping basement,12,13.070,6.925,1.070,ST_consensus_override,0.857,0.857,0.868,14.009,19.453,24.696,12.131,0.333,Cell+L2 또는 약한 STAR,0
+dipping_resistive_basement_22,interface_known_dip,dipping basement,22,16.677,5.000,5.323,Fallback_ST_consensus,0.550,0.714,0.412,17.572,3.207,73.155,15.782,0.135,Cell+L2 또는 약한 STAR,1
+vertical_block_boundary,no_single_dip,vertical block/fault boundary,,10.758,5.000,,Fallback_ST_consensus,0.550,0.786,1.512,10.701,14.307,0.000,10.815,1.306,Cell+L2 또는 약한 STAR,1
+perched_groundwater_lens,no_single_dip,groundwater lens,,13.051,5.000,,Fallback_ST_consensus,0.550,0.786,0.854,14.082,5.668,80.622,12.019,0.271,Cell+L2 또는 약한 STAR,1
+buried_conductive_channel,no_single_dip,buried channel,,12.217,6.131,,ML,0.920,0.929,0.001,20.769,32.761,46.068,19.905,0.374,Cell+L2 또는 약한 STAR,0
+composite_groundwater_fault,no_single_dip,composite groundwater/fault,,20.315,7.238,,ST_consensus_override,0.920,1.000,0.000,21.243,21.717,79.094,19.387,0.394,STAR + MGS 보조,0

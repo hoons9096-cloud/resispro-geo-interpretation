@@ -1,0 +1,1841 @@
+[
+  {
+    "name": "clean_layer_5_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 5.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_5_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 5.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_5_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 5.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_5_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 5.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_5_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 5.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_5_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 5.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_5_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 5.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_5_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 5.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_5_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 5.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_5_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 5.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_5_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 5.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_5_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 5.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_5_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 5.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_5_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 5.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "basement_interface_5_x30_c3",
+    "family": "dipping_basement",
+    "dip": 5.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 30,
+      "z0": 8,
+      "cover": 3
+    }
+  },
+  {
+    "name": "basement_interface_5_x35_c4",
+    "family": "dipping_basement",
+    "dip": 5.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 35,
+      "z0": 9,
+      "cover": 4
+    }
+  },
+  {
+    "name": "basement_interface_5_x45_c5",
+    "family": "dipping_basement",
+    "dip": 5.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 45,
+      "z0": 10,
+      "cover": 5
+    }
+  },
+  {
+    "name": "clean_layer_10_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 10.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_10_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 10.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_10_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 10.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_10_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 10.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_10_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 10.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_10_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 10.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_10_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 10.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_10_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 10.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_10_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 10.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_10_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 10.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_10_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 10.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_10_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 10.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_10_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 10.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_10_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 10.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "basement_interface_10_x30_c3",
+    "family": "dipping_basement",
+    "dip": 10.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 30,
+      "z0": 8,
+      "cover": 3
+    }
+  },
+  {
+    "name": "basement_interface_10_x35_c4",
+    "family": "dipping_basement",
+    "dip": 10.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 35,
+      "z0": 9,
+      "cover": 4
+    }
+  },
+  {
+    "name": "basement_interface_10_x45_c5",
+    "family": "dipping_basement",
+    "dip": 10.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 45,
+      "z0": 10,
+      "cover": 5
+    }
+  },
+  {
+    "name": "clean_layer_15_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 15.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_15_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 15.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_15_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 15.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_15_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 15.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_15_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 15.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_15_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 15.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_15_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 15.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_15_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 15.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_15_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 15.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_15_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 15.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_15_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 15.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_15_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 15.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_15_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 15.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_15_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 15.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "basement_interface_15_x30_c3",
+    "family": "dipping_basement",
+    "dip": 15.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 30,
+      "z0": 8,
+      "cover": 3
+    }
+  },
+  {
+    "name": "basement_interface_15_x35_c4",
+    "family": "dipping_basement",
+    "dip": 15.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 35,
+      "z0": 9,
+      "cover": 4
+    }
+  },
+  {
+    "name": "basement_interface_15_x45_c5",
+    "family": "dipping_basement",
+    "dip": 15.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 45,
+      "z0": 10,
+      "cover": 5
+    }
+  },
+  {
+    "name": "clean_layer_20_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 20.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_20_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 20.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_20_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 20.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_20_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 20.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_20_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 20.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_20_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 20.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_20_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 20.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_20_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 20.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_20_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 20.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_20_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 20.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_20_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 20.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_20_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 20.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_20_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 20.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_20_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 20.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "basement_interface_20_x30_c3",
+    "family": "dipping_basement",
+    "dip": 20.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 30,
+      "z0": 8,
+      "cover": 3
+    }
+  },
+  {
+    "name": "basement_interface_20_x35_c4",
+    "family": "dipping_basement",
+    "dip": 20.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 35,
+      "z0": 9,
+      "cover": 4
+    }
+  },
+  {
+    "name": "basement_interface_20_x45_c5",
+    "family": "dipping_basement",
+    "dip": 20.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 45,
+      "z0": 10,
+      "cover": 5
+    }
+  },
+  {
+    "name": "clean_layer_25_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 25.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_25_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 25.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_25_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 25.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_25_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 25.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_25_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 25.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_25_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 25.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_25_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 25.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_25_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 25.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_25_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 25.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_25_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 25.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_25_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 25.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_25_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 25.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_25_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 25.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_25_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 25.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "basement_interface_25_x30_c3",
+    "family": "dipping_basement",
+    "dip": 25.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 30,
+      "z0": 8,
+      "cover": 3
+    }
+  },
+  {
+    "name": "basement_interface_25_x35_c4",
+    "family": "dipping_basement",
+    "dip": 25.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 35,
+      "z0": 9,
+      "cover": 4
+    }
+  },
+  {
+    "name": "basement_interface_25_x45_c5",
+    "family": "dipping_basement",
+    "dip": 25.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 45,
+      "z0": 10,
+      "cover": 5
+    }
+  },
+  {
+    "name": "clean_layer_30_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 30.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_30_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 30.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_30_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 30.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_30_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 30.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_30_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 30.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_30_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 30.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_30_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 30.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_30_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 30.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_30_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 30.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_30_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 30.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_30_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 30.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_30_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 30.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_30_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 30.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_30_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 30.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "basement_interface_30_x30_c3",
+    "family": "dipping_basement",
+    "dip": 30.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 30,
+      "z0": 8,
+      "cover": 3
+    }
+  },
+  {
+    "name": "basement_interface_30_x35_c4",
+    "family": "dipping_basement",
+    "dip": 30.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 35,
+      "z0": 9,
+      "cover": 4
+    }
+  },
+  {
+    "name": "basement_interface_30_x45_c5",
+    "family": "dipping_basement",
+    "dip": 30.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 45,
+      "z0": 10,
+      "cover": 5
+    }
+  },
+  {
+    "name": "clean_layer_35_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 35.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_35_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 35.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_35_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 35.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_35_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 35.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_35_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 35.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_35_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 35.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_35_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 35.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_35_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 35.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_35_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 35.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_35_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 35.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_35_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 35.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_35_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 35.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_35_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 35.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_35_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 35.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "basement_interface_35_x30_c3",
+    "family": "dipping_basement",
+    "dip": 35.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 30,
+      "z0": 8,
+      "cover": 3
+    }
+  },
+  {
+    "name": "basement_interface_35_x35_c4",
+    "family": "dipping_basement",
+    "dip": 35.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 35,
+      "z0": 9,
+      "cover": 4
+    }
+  },
+  {
+    "name": "basement_interface_35_x45_c5",
+    "family": "dipping_basement",
+    "dip": 35.0,
+    "expected": "dipping basement",
+    "params": {
+      "x0": 45,
+      "z0": 10,
+      "cover": 5
+    }
+  },
+  {
+    "name": "clean_layer_45_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 45.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_45_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 45.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_45_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 45.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_45_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 45.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_45_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 45.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_45_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 45.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_45_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 45.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_45_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 45.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_45_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 45.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_45_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 45.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_45_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 45.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_45_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 45.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_45_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 45.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_45_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 45.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "clean_layer_55_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 55.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_55_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 55.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_55_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 55.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_55_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 55.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_55_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 55.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_55_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 55.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_55_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 55.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_55_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 55.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_55_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 55.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_55_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 55.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_55_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 55.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_55_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 55.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_55_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 55.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_55_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 55.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "clean_layer_65_x30_t5",
+    "family": "clean_dipping_layer",
+    "dip": 65.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 2,
+      "thick": 5
+    }
+  },
+  {
+    "name": "clean_layer_65_x35_t7",
+    "family": "clean_dipping_layer",
+    "dip": 65.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 3,
+      "thick": 7
+    }
+  },
+  {
+    "name": "clean_layer_65_x45_t6",
+    "family": "clean_dipping_layer",
+    "dip": 65.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 2,
+      "thick": 6
+    }
+  },
+  {
+    "name": "clean_layer_65_x55_t8",
+    "family": "clean_dipping_layer",
+    "dip": 65.0,
+    "expected": "dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 2,
+      "thick": 8
+    }
+  },
+  {
+    "name": "covered_layer_65_x30_c4_t5",
+    "family": "covered_dipping_layer",
+    "dip": 65.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 30,
+      "z0": 9,
+      "thick": 5,
+      "cover": 4
+    }
+  },
+  {
+    "name": "covered_layer_65_x35_c6_t6",
+    "family": "covered_dipping_layer",
+    "dip": 65.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 35,
+      "z0": 10,
+      "thick": 6,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_65_x45_c6_t8",
+    "family": "covered_dipping_layer",
+    "dip": 65.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 45,
+      "z0": 9,
+      "thick": 8,
+      "cover": 6
+    }
+  },
+  {
+    "name": "covered_layer_65_x55_c8_t6",
+    "family": "covered_dipping_layer",
+    "dip": 65.0,
+    "expected": "covered dipping layer",
+    "params": {
+      "x0": 55,
+      "z0": 11,
+      "thick": 6,
+      "cover": 8
+    }
+  },
+  {
+    "name": "groundwater_path_65_x35_t4",
+    "family": "dipping_groundwater",
+    "dip": 65.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 35,
+      "z0": 5,
+      "thick": 4
+    }
+  },
+  {
+    "name": "groundwater_path_65_x42_t5",
+    "family": "dipping_groundwater",
+    "dip": 65.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 42,
+      "z0": 6,
+      "thick": 5
+    }
+  },
+  {
+    "name": "groundwater_path_65_x52_t7",
+    "family": "dipping_groundwater",
+    "dip": 65.0,
+    "expected": "dipping groundwater",
+    "params": {
+      "x0": 52,
+      "z0": 5,
+      "thick": 7
+    }
+  },
+  {
+    "name": "fault_zone_65_x38_w5",
+    "family": "conductive_fault_zone",
+    "dip": 65.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 38,
+      "z0": 1.5,
+      "width": 5
+    }
+  },
+  {
+    "name": "fault_zone_65_x48_w7",
+    "family": "conductive_fault_zone",
+    "dip": 65.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 48,
+      "z0": 1.5,
+      "width": 7
+    }
+  },
+  {
+    "name": "fault_zone_65_x58_w8",
+    "family": "conductive_fault_zone",
+    "dip": 65.0,
+    "expected": "conductive fault zone",
+    "params": {
+      "x0": 58,
+      "z0": 2.5,
+      "width": 8
+    }
+  },
+  {
+    "name": "vertical_block_boundary",
+    "family": "vertical_block_boundary",
+    "dip": null,
+    "expected": "vertical block boundary",
+    "params": {}
+  },
+  {
+    "name": "groundwater_lens",
+    "family": "groundwater_lens",
+    "dip": null,
+    "expected": "groundwater lens",
+    "params": {}
+  },
+  {
+    "name": "buried_channel",
+    "family": "buried_channel",
+    "dip": null,
+    "expected": "buried conductive channel",
+    "params": {}
+  },
+  {
+    "name": "composite_groundwater_fault",
+    "family": "composite",
+    "dip": null,
+    "expected": "composite groundwater/fault",
+    "params": {}
+  }
+]

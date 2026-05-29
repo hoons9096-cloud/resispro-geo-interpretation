@@ -1,0 +1,11 @@
+﻿source_mesh,case,true_dip,mean_estimated_dip,mean_abs_error,top_families
+same_mesh_dx0.25,Basement 18,18.0,15.0,3.0,basement
+same_mesh_dx0.25,Clean dip 28,28.0,25.0,3.0,clean_dip
+same_mesh_dx0.25,Covered dip 32,32.0,35.0,3.0,covered_dip
+same_mesh_dx0.25,Fault zone 40,40.0,35.0,5.0,clean_dip
+same_mesh_dx0.25,Groundwater 18,18.0,25.0,7.0,clean_dip
+separated_fine_mesh_dx0.125,Basement 18,18.0,15.0,3.0,basement
+separated_fine_mesh_dx0.125,Clean dip 28,28.0,25.0,3.0,clean_dip
+separated_fine_mesh_dx0.125,Covered dip 32,32.0,36.0,4.0,covered_dip
+separated_fine_mesh_dx0.125,Fault zone 40,40.0,35.0,5.0,clean_dip
+separated_fine_mesh_dx0.125,Groundwater 18,18.0,25.0,7.0,clean_dip

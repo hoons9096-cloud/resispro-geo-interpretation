@@ -1,0 +1,308 @@
+[
+  {
+    "name": "clean_layer_5",
+    "family": "clean_dipping_layer",
+    "dip": 5.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_5",
+    "family": "covered_dipping_layer",
+    "dip": 5.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_5",
+    "family": "dipping_groundwater",
+    "dip": 5.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_5",
+    "family": "conductive_fault_zone",
+    "dip": 5.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "basement_interface_5",
+    "family": "dipping_basement",
+    "dip": 5.0,
+    "expected": "dipping basement"
+  },
+  {
+    "name": "clean_layer_10",
+    "family": "clean_dipping_layer",
+    "dip": 10.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_10",
+    "family": "covered_dipping_layer",
+    "dip": 10.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_10",
+    "family": "dipping_groundwater",
+    "dip": 10.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_10",
+    "family": "conductive_fault_zone",
+    "dip": 10.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "basement_interface_10",
+    "family": "dipping_basement",
+    "dip": 10.0,
+    "expected": "dipping basement"
+  },
+  {
+    "name": "clean_layer_15",
+    "family": "clean_dipping_layer",
+    "dip": 15.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_15",
+    "family": "covered_dipping_layer",
+    "dip": 15.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_15",
+    "family": "dipping_groundwater",
+    "dip": 15.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_15",
+    "family": "conductive_fault_zone",
+    "dip": 15.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "basement_interface_15",
+    "family": "dipping_basement",
+    "dip": 15.0,
+    "expected": "dipping basement"
+  },
+  {
+    "name": "clean_layer_20",
+    "family": "clean_dipping_layer",
+    "dip": 20.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_20",
+    "family": "covered_dipping_layer",
+    "dip": 20.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_20",
+    "family": "dipping_groundwater",
+    "dip": 20.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_20",
+    "family": "conductive_fault_zone",
+    "dip": 20.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "basement_interface_20",
+    "family": "dipping_basement",
+    "dip": 20.0,
+    "expected": "dipping basement"
+  },
+  {
+    "name": "clean_layer_25",
+    "family": "clean_dipping_layer",
+    "dip": 25.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_25",
+    "family": "covered_dipping_layer",
+    "dip": 25.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_25",
+    "family": "dipping_groundwater",
+    "dip": 25.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_25",
+    "family": "conductive_fault_zone",
+    "dip": 25.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "basement_interface_25",
+    "family": "dipping_basement",
+    "dip": 25.0,
+    "expected": "dipping basement"
+  },
+  {
+    "name": "clean_layer_30",
+    "family": "clean_dipping_layer",
+    "dip": 30.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_30",
+    "family": "covered_dipping_layer",
+    "dip": 30.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_30",
+    "family": "dipping_groundwater",
+    "dip": 30.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_30",
+    "family": "conductive_fault_zone",
+    "dip": 30.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "basement_interface_30",
+    "family": "dipping_basement",
+    "dip": 30.0,
+    "expected": "dipping basement"
+  },
+  {
+    "name": "clean_layer_35",
+    "family": "clean_dipping_layer",
+    "dip": 35.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_35",
+    "family": "covered_dipping_layer",
+    "dip": 35.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_35",
+    "family": "dipping_groundwater",
+    "dip": 35.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_35",
+    "family": "conductive_fault_zone",
+    "dip": 35.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "basement_interface_35",
+    "family": "dipping_basement",
+    "dip": 35.0,
+    "expected": "dipping basement"
+  },
+  {
+    "name": "clean_layer_45",
+    "family": "clean_dipping_layer",
+    "dip": 45.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_45",
+    "family": "covered_dipping_layer",
+    "dip": 45.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_45",
+    "family": "dipping_groundwater",
+    "dip": 45.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_45",
+    "family": "conductive_fault_zone",
+    "dip": 45.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "clean_layer_55",
+    "family": "clean_dipping_layer",
+    "dip": 55.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_55",
+    "family": "covered_dipping_layer",
+    "dip": 55.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_55",
+    "family": "dipping_groundwater",
+    "dip": 55.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_55",
+    "family": "conductive_fault_zone",
+    "dip": 55.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "clean_layer_65",
+    "family": "clean_dipping_layer",
+    "dip": 65.0,
+    "expected": "dipping layer"
+  },
+  {
+    "name": "covered_layer_65",
+    "family": "covered_dipping_layer",
+    "dip": 65.0,
+    "expected": "covered dipping layer"
+  },
+  {
+    "name": "groundwater_path_65",
+    "family": "dipping_groundwater",
+    "dip": 65.0,
+    "expected": "dipping groundwater"
+  },
+  {
+    "name": "fault_zone_65",
+    "family": "conductive_fault_zone",
+    "dip": 65.0,
+    "expected": "conductive fault zone"
+  },
+  {
+    "name": "vertical_block_boundary",
+    "family": "vertical_block_boundary",
+    "dip": null,
+    "expected": "vertical block boundary"
+  },
+  {
+    "name": "groundwater_lens",
+    "family": "groundwater_lens",
+    "dip": null,
+    "expected": "groundwater lens"
+  },
+  {
+    "name": "buried_channel",
+    "family": "buried_channel",
+    "dip": null,
+    "expected": "buried conductive channel"
+  },
+  {
+    "name": "composite_groundwater_fault",
+    "family": "composite",
+    "dip": null,
+    "expected": "composite groundwater/fault"
+  }
+]
